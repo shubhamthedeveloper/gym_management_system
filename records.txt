@@ -1,0 +1,11 @@
+
+
+*****************
+NAME :Shubham agarwal
+DOB(DDMMYY) : 10598
+DOJ(DDMMYY) : 30417
+AGE : 19
+MOBILE NO. : 9717200101
+ADDRESS : A/120 Sector 8 Rohini
+FACILITY OPTED : Personal Training
+****************
